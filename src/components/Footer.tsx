@@ -46,7 +46,7 @@ const Footer = () => {
           <div>
             <h4 className="font-display font-semibold text-lg mb-4">Contact Us</h4>
             <div className="flex flex-col gap-3 text-sm">
-              <a href="https://maps.app.goo.gl/XbH35A4xo6icQutaA?g_st=aw" target="_blank" rel="noopener noreferrer" className="flex items-start gap-2 opacity-80 hover:opacity-100 transition-opacity">
+              <a href="https://www.google.com/maps/dir//Lathidad,+Gujarat+364710" target="_blank" rel="noopener noreferrer" className="flex items-start gap-2 opacity-80 hover:opacity-100 transition-opacity">
                 <MapPin className="w-4 h-4 mt-0.5 shrink-0" />
                 <span>Paresh Auto Garage Ne Baju, Lathidad – 364710</span>
               </a>
